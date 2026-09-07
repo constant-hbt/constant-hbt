@@ -3,7 +3,8 @@
 ### Desenvolvedor Full Stack .NET
 
 Trabalho com desenvolvimento de software por mais de 4 anos.
-Software Developer C# | ASP.NET Framework & Core | SOLID | Clean Code
+
+Desenvolvedor de Software C# | .NET Framework & Core | SOLID | Clean Code
 
 Tenho interesse especial em arquitetura de software, qualidade de código,
 testes automatizados e desenvolvimento de aplicações sustentáveis e fáceis
